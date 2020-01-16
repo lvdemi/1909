@@ -1,0 +1,11 @@
+//万能清楚法
+.clearFix:after{
+    content: "";
+    display: block;
+    clear: both;
+    visibility: hidden;
+}
+
+.loading{
+    background: url(../assets/loading.gif) no-repeat;
+}
