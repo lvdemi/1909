@@ -24,6 +24,7 @@ import {
   Cell as MyCell,
   Header
 } from 'mint-ui';
+
 Vue.use(Lazyload);
 Vue.use(MintUI)
 Vue.use(List);
